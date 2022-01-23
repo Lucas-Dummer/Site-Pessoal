@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Arial, sans-serif ;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+.padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.about{
+    background-color: white;
+}
+
+.subtitle{
+    margin-bottom: 20px;
+}
