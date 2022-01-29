@@ -2,8 +2,7 @@
 
 body{
     margin: auto;
-    padding-right: 200px;
-    padding-left: 200px;
+    max-width: 1200px;
 }
 
 a {
@@ -73,10 +72,21 @@ a:hover{
     margin-bottom: 20px;
 }
 
+.about-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .paragraph{
+    margin-right: 30px;
+    margin-left: 30px;   
     text-align: justify;
     text-indent: 1.5cm;
+
 }
+
 
 .card-text{
     text-align: justify;
